@@ -9,7 +9,7 @@ import java.util.Random;
 /**
  * Created by LENOVO on 13/04/2016.
  */
-public class IOSTestClass extends AbstractTest {
+public class IOSTest extends AbstractTest {
     InterviewDriver driver;
     Device device;
 

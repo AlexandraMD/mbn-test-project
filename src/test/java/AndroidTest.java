@@ -12,7 +12,7 @@ import java.util.Random;
 /**
  * Created by LENOVO on 12/04/2016.
  */
-public class AndroidTestClass extends AbstractTest{
+public class AndroidTest extends AbstractTest{
 
     InterviewDriver driver;
     Device device;
